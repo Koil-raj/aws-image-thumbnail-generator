@@ -16,9 +16,6 @@ AWS Lambda function that automatically creates 128x128 JPEG thumbnails for image
 ## Architecture
 
 ![Architecture Diagram](aws_thumbnail_architecture.png)
-
----
-
 ## File Structure
 
 - `lambda-S3-thumbnail.py` — Lambda handler code
