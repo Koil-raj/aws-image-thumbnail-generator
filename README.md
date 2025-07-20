@@ -42,7 +42,7 @@ zip -r ../lambda_function.zip .
 
 cd ..
 
-#### Note: Alternatively, you can use the provided deployment/build_zip.sh script package the lambda function.
+#### Note: Alternatively, you can use the provided deployment/build_zip.sh script package the lambda function (Make sure you give the execute permission for build_zip.sh and get into the `deployment` directory and run `sh build_zip.sh`).
 
 
 ### 2. Create and Configure AWS Lambda Function
